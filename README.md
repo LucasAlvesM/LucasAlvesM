@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="550" src="https://github.com/LucasAlvesM/wall/blob/601db38cd09dc2c744a67fa15744297165088e82/banner%20(2).png"  />
+  <img height="700" src="https://github.com/LucasAlvesM/wall/blob/601db38cd09dc2c744a67fa15744297165088e82/banner%20(2).png"  />
 </div>
 
 ###
