@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Lucas and, I'm a Java Dev </h2>
+<h2 align="left">Hi 👋! Desenvolvedor Java focado em Segurança de Aplicações </h2>
 
 ###
 
