@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Lucas and, I'm a Back End Developer that love C#/.NET and Java </h2>
+<h2 align="left">Hi 👋! I'm Lucas and, I'm a Java Dev </h2>
 
 ###
 
